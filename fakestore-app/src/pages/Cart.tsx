@@ -34,7 +34,7 @@ const Cart = () => {
 
       {showSuccess && (
         <Alert variant="success">
-          🎉 Checkout successful! Your cart has been cleared.
+          🎉 Checkout successful!
         </Alert>
       )}
 
